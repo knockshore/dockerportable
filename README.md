@@ -3,6 +3,8 @@ A portable docker VM using QEMU for Windows. No admin privileges and no installa
 
 dockerportable
 
+Thank you @riafeed from Qiita. A good read about preparing portable docker toolkit for Windows: https://qiita.com/riafeed/items/c7729dc84191e93f0f3d
+
 NOTE: If you're PC has port 22 already open. Change the SSH port in the boot.bat
 
 boot.bat - Starts the alpine linux VM with docker installed inside.
